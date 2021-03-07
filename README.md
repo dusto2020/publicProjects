@@ -1,2 +1,2 @@
 # publicProjects
-Projects from Jetbrains Academy
+Personal Projects
